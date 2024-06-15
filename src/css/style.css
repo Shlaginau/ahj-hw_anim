@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cacbca; 
+    min-height: 100vh;
+    display: flex; 
+    flex-direction: column;
+}
+
+header {
+    position: relative;
+    margin: 3px 3px 0;
+    background-color: #fff;
+    border-radius: 5px;
+    
+    height: 60px;
+    transition: height 1s ease-in-out;
+    overflow: hidden;
+}
+
+.collapse-btn {
+    color: rgb(219, 219, 219);
+    background-color: rgb(0, 106, 255);
+    margin: 10px;
+    padding: 10px;
+    border-radius:5px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+    border-color: #57cd67;
+    cursor: pointer;
+}
+
+.collapse-btn:hover {
+    background-color: #1a5bb0;
+}
+
+
+
+
