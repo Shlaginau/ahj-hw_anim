@@ -1,4 +1,4 @@
-https://github.com/Shlaginau/ahj-hw_anim/actions/workflows/web.yml/badge.svg
+![Build status](https://github.com/Shlaginau/ahj-hw_anim/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "9. Анимации и CSS"
 
